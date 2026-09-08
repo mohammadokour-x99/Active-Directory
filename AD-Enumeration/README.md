@@ -1,6 +1,6 @@
 # AD-Enumeration
 
-after logoning into  a machine:
+after logging in into  a machine:
 
 we've two powerfull tools that u can run to make enumeration about AD:
 
